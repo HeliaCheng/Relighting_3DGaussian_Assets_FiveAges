@@ -1,0 +1,1 @@
+This repo contains several inverse rendering pipelines which can be directly used on 3d gaussian assets. Output from SAM3d can be input to decouple the light transport and albedo, metalic and roughness, etc.
