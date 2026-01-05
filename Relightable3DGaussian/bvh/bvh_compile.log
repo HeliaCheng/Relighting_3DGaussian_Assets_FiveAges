@@ -1,0 +1,28 @@
+running build_ext
+Traceback (most recent call last):
+  File "setup.py", line 59, in <module>
+    'build_ext': BuildExtension.with_options(no_python_abi_suffix=True),
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/setuptools/__init__.py", line 87, in setup
+    return distutils.core.setup(**attrs)
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/setuptools/_distutils/core.py", line 185, in setup
+    return run_commands(dist)
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/setuptools/_distutils/core.py", line 201, in run_commands
+    dist.run_commands()
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/setuptools/_distutils/dist.py", line 969, in run_commands
+    self.run_command(cmd)
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/setuptools/dist.py", line 1208, in run_command
+    super().run_command(command)
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/setuptools/_distutils/dist.py", line 988, in run_command
+    cmd_obj.run()
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/setuptools/command/build_ext.py", line 84, in run
+    _build_ext.run(self)
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/setuptools/_distutils/command/build_ext.py", line 346, in run
+    self.build_extensions()
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/torch/utils/cpp_extension.py", line 434, in build_extensions
+    self._check_cuda_version(compiler_name, compiler_version)
+  File "/data/chengwr/anaconda3/envs/r3dg/lib/python3.7/site-packages/torch/utils/cpp_extension.py", line 812, in _check_cuda_version
+    raise RuntimeError(CUDA_MISMATCH_MESSAGE.format(cuda_str_version, torch.version.cuda))
+RuntimeError: 
+The detected CUDA version (12.8) mismatches the version that was used to compile
+PyTorch (11.6). Please make sure to use the same CUDA versions.
+
