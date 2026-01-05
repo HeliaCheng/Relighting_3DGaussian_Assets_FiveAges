@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: envlight
+Version: 0.1.0
+Summary: environment lighting toolkit
+Home-page: https://github.com/ashawkey/envlight
+Author: kiui
+Author-email: ashawkey1999@gmail.com
+License-File: LICENSE
+License-File: LICENSE_NVIDIA

@@ -1,0 +1,8 @@
+# ninja log v5
+0	12472	1767083479529634318	/data/chengwr/code/GIR_ori/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	4326f78eb82a2d15
+41	8345	1767084346714939312	/data/chengwr/code/GIR_ori/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	1ea5948ca0d85b4f
+40	14065	1767084352425875330	/data/chengwr/code/GIR_ori/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	7f88416fc9cab401
+41	32591	1767084370958672752	/data/chengwr/code/GIR_ori/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	152044b4f85f58ae
+1	8240	1767085985433692871	/data/chengwr/code/GIR/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	7a0ff4303be6242
+0	12824	1767085990011621573	/data/chengwr/code/GIR/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	7f30abdecc2c42ce
+2	31157	1767086008348341371	/data/chengwr/code/GIR/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	d55bccf42fd19c5a

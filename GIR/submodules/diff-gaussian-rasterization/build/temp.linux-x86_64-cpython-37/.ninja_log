@@ -1,0 +1,9 @@
+# ninja log v5
+1	1561	1767083429498240955	/data/chengwr/code/GIR_ori/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/backward.o	a7f3fb291638c91d
+1	1718	1767083429654242175	/data/chengwr/code/GIR_ori/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	2179e90d5542de35
+2	13510	1767083441431334391	/data/chengwr/code/GIR_ori/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/ext.o	aefcaa5405d10160
+42	1376	1767084029834942166	/data/chengwr/code/GIR_ori/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	13eaf4413542644f
+41	1579	1767084030035937876	/data/chengwr/code/GIR_ori/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/backward.o	dbac1bd361bcd1f5
+43	5962	1767084034416844836	/data/chengwr/code/GIR_ori/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/rasterizer_impl.o	855d6a996b459ab8
+43	14187	1767084042631672544	/data/chengwr/code/GIR_ori/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/ext.o	d001e8ef88f6a9ba
+44	32693	1767084061144294494	/data/chengwr/code/GIR_ori/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/rasterize_points.o	f61abae79d4f7781
