@@ -1,0 +1,1 @@
+This Repository test run all the up-to-date mainstream BRDF-based relightable 3d gaussians with customized 3d gaussian models as input. New functins are added in gaussian models, main pipeline and the parameters setting.
